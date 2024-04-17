@@ -1,5 +1,6 @@
 use std::io;
 
+#[warn(unused_imports)]
 fn main() {
     println!("Guess the number!");
 
